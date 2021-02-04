@@ -19,19 +19,20 @@ Small added feature like a charger in a bus:
 
 ->MACHINE LEARNING and DEEP LEARNING techniques we are willing to perform:
 
--Face recognition for authentication and quizzes.
--id card face recogntion with real time picture authentication along with reading the roll number/name from pic of st id card and sending it to the organization.
--spam blocker in chatbot and posts.
--subjective quizzes checking
--comparing all the handwritten assignments for pledge checking.(want to duscuss regarding this idea)
--checking the presence of student infront of camera during quiz.
--using the audio during exam to check cheating etc( want to discuss on that)
--detect cheating during on campus exam using opencv.
+1. Face recognition for authentication and quizzes.
+2. id card face recogntion with real time picture authentication along with reading the roll number/name from pic of st id card and sending it to the organization.
+3. spam blocker in chatbot and posts.
+4. subjective quizzes checking
+5. comparing all the handwritten assignments for pledge checking.(want to duscuss regarding this idea)
+6. checking the presence of student infront of camera during quiz.
+7. using the audio during exam to check cheating etc( want to discuss on that)
+8. detect cheating during on campus exam using opencv.
+9. emoji generator with respect to conversation
 
 Other important functionalities:
--profile of everyperson.
--posting feature like facebook eg can help in annoucement(a small feature that can overtook whatsapp for students).
--chatbot between the peers.
--checking the location between students during exams using google maps.
+1. profile of everyperson.
+2. posting feature like facebook eg can help in annoucement(a small feature that can overtook whatsapp for students).
+3. chatbot between the peers.
+4. checking the location between students during exams using google maps.
 -checking the screen after sometime.
 -end to end encryption of everytype of user data.
