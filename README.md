@@ -27,7 +27,8 @@ Small added feature like a charger in a bus:
 6. checking the presence of student infront of camera during quiz.
 7. using the audio during exam to check cheating etc( want to discuss on that)
 8. detect cheating during on campus exam using opencv.
-9. emoji generator with respect to conversation
+9. emoji generator with respect to conversation.
+10. Going to next line detecting numbers like those characters during posting or sending message.
 
 Other important functionalities:
 1. profile of everyperson.
