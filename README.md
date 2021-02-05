@@ -43,3 +43,6 @@ Other important functionalities:
 5. checking the screen after sometime.
 6. end to end encryption of everytype of user data.
 7. Finding a way to automate zoom meetings.
+
+
+face recognition by the data given by institution
