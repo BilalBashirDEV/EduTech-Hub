@@ -23,7 +23,7 @@ Small added feature like a charger in a bus:
 
 ->MACHINE LEARNING and DEEP LEARNING techniques we are willing to perform:
 
-1. Face recognition for authentication and quizzes.
+1. Face recognition for authentication and quizzes + attendence through this and downloading of the data also.
 2. id card face recogntion with real time picture authentication along with reading the roll number/name from pic of st id card and sending it to the organization.
 3. spam blocker in chatbot and posts.
 4. subjective quizzes checking
