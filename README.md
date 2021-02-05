@@ -34,6 +34,7 @@ Small added feature like a charger in a bus:
 9. emoji generator with respect to conversation.
 10. Going to next line detecting numbers like those characters during posting or sending message.
 11. data science on the keywords used in conversation to recommend futher posts or show ads.
+12. FAQs
 
 Other important functionalities:
 1. profile of everyperson.
