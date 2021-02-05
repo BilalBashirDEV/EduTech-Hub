@@ -25,7 +25,7 @@ Small added feature like a charger in a bus:
 
 1. Face recognition for authentication and quizzes + attendence through this and downloading of the data also.
 2. id card face recogntion with real time picture authentication along with reading the roll number/name from pic of st id card and sending it to the organization.
-3. spam blocker in chatbot and posts.
+3. spam blocker in chatting and posts.
 4. subjective quizzes checking
 5. comparing all the handwritten assignments for pledge checking.(want to duscuss regarding this idea)
 6. checking the presence of student infront of camera during quiz.
