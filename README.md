@@ -36,5 +36,6 @@ Other important functionalities:
 2. posting feature like facebook eg can help in annoucement(a small feature that can overtook whatsapp for students).
 3. chatbot between the peers.
 4. checking the location between students during exams using google maps.
--checking the screen after sometime.
--end to end encryption of everytype of user data.
+5. checking the screen after sometime.
+6. end to end encryption of everytype of user data.
+7. Finding a way to automate zoom meetings.
