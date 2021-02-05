@@ -1,5 +1,9 @@
 # EduTech-Hub
 
+#1Main purpose is to take every educational related manager or institution on this site with the intent of solving the below explained problems and polishing/learning Ml/DL/DS skills and learning market competitive web development:
+#2. the features explained below are too much for an FYP but its much like an initiatives' idea.
+#3. this whole idea needs filtering compatible for educational insitute only for FYP.
+
 Problem Statement:
 1. Too much threads of chats in a single app/place.
 2. No authentication for online exams.
