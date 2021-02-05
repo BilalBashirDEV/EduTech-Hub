@@ -15,7 +15,7 @@ Small added feature like a charger in a bus:
 1. zip itself
 2. For an edu institute no forwarding of messages nor screenshots.
 3. depending on organization can fluctuate privacy rules.
-4. eduko betterment features
+4. eduko betterment features.
 
 ->MACHINE LEARNING and DEEP LEARNING techniques we are willing to perform:
 
@@ -29,6 +29,7 @@ Small added feature like a charger in a bus:
 8. detect cheating during on campus exam using opencv.
 9. emoji generator with respect to conversation.
 10. Going to next line detecting numbers like those characters during posting or sending message.
+11. data science on the keywords used in conversation to recommend futher posts or show ads.
 
 Other important functionalities:
 1. profile of everyperson.
