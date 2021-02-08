@@ -41,6 +41,7 @@ Small added feature like a charger in a bus:
 11. data science on the keywords used in conversation to recommend futher posts or show ads.
 12. FAQs
 13. detection of calculators and mobiles during exam can be done by using darknet and yolov6.
+14. face recognition by the data given by institution
 
 Other important functionalities:
 1. profile of everyperson.
@@ -50,6 +51,3 @@ Other important functionalities:
 5. checking the screen after sometime.
 6. end to end encryption of everytype of user data.
 7. Finding a way to automate zoom meetings.
-
-
-face recognition by the data given by institution
