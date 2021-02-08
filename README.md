@@ -1,13 +1,18 @@
 # EduTech-Hub
 
 Idea by
-Muhammad Bilal 2018CE247
-Arslan Ali 2018CE236
-Hanan Anjum 2018CE216
+-> Muhammad Bilal 2018CE247
+-> Arslan Ali 2018CE236
+-> Hanan Anjum 2018CE216
 
 1. Main purpose is to take every educational related manager or institution on this site with the intent of solving the below explained problems and polishing/learning Ml/DL/DS skills and learning market competitive web development.
 2. the features explained below are too much for an FYP but its much like an initiatives' idea.
 3. this whole idea needs filtering compatible for educational insitute only for FYP.
+
+Main Goal:
+1. During FYP our Goal and focus will be to make a product which could easily take over and benefit any educational institute in Pakistan and customer side end product.
+2. Make such a system from which every passionate student can take help from that organization to let him grow professionally atleast.
+3. example as a fresher no guide
 
 Problem Statement:
 1. Too much threads of chats in a single app/place.
