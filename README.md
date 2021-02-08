@@ -40,6 +40,7 @@ Small added feature like a charger in a bus:
 10. Going to next line detecting numbers like those characters during posting or sending message.
 11. data science on the keywords used in conversation to recommend futher posts or show ads.
 12. FAQs
+13. detection of calculators and mobiles during exam can be done by using darknet and yolov6.
 
 Other important functionalities:
 1. profile of everyperson.
