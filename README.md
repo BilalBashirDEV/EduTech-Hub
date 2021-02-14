@@ -62,5 +62,5 @@ Other important functionalities:
 System:
 1. sign up login interface with giving quiz
 
-
+Should add some CV new features
 
