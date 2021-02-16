@@ -60,7 +60,8 @@ Other important functionalities:
 1st sprint the project:
 
 System:
-1. sign up login interface with giving quiz
+1. sign up login interface with giving quiz.
+2. including face recognition with a working web app.
 
-Should add some CV new features
+Should add some CV new features links to analyticsvidhya and getsflair and pyimage =search.
 
