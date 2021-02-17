@@ -63,5 +63,5 @@ System:
 1. sign up login interface with giving quiz.
 2. including face recognition with a working web app.
 
-Should add some CV new features links to analyticsvidhya and getsflair and pyimage =search.
+Should add some CV new features links to analyticsvidhya and getsflair and pyimage search.
 
