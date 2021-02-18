@@ -64,4 +64,4 @@ System:
 2. including face recognition with a working web app.
 
 Should add some CV new features links to analyticsvidhya and getsflair and pyimage search.
-
+should focus on some CV feature, progress it priority wise taking with full stack web dev.
