@@ -62,3 +62,10 @@ Should add some CV new features links to analyticsvidhya and getsflair and pyima
 should focus on some CV feature, progress it priority wise taking with full stack web dev.
 focus on a simple quiz system with cv in first 3 months...
 will be starting with face recog with id card in the start on april or end of march.
+
+
+New inclusions:
+1. Organizations under one platforms.
+2. ML Features on that also.
+3. Eduko as a party to be registered on that platform not an eduko.
+4. taking exams as an feature of it with authentications, spam detectors.
